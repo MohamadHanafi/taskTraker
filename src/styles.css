@@ -44,6 +44,10 @@ body {
   width: 100%;
 }
 
+.add-form {
+  margin-bottom: 20px;
+}
+
 .form-control {
   margin: 20px 0;
 }
